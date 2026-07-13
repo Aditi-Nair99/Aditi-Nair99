@@ -88,23 +88,6 @@ An exploratory analysis of the Netflix dataset uncovering insights on content di
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Nair99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Nair99&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Nair99&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditi-Nair99&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
----
-
 ### ⚡ Live Contribution Activity
 
 <div align="center">
