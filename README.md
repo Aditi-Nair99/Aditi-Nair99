@@ -92,7 +92,7 @@ An exploratory analysis of the Netflix dataset uncovering insights on content di
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aditi-Nair99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Nair99&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://www.google.com/imgres?q=github%20streak%20image&imgurl=https%3A%2F%2Fjacobtomlinson.dev%2Fposts%2F2024%2Fgithub-streaks-and-work%2Flife-balance%2F2023-cassidy-commit-graph.png&imgrefurl=https%3A%2F%2Fjacobtomlinson.dev%2Fposts%2F2024%2Fgithub-streaks-and-work%2Flife-balance%2F&docid=bMfOVYuKblBGSM&tbnid=9-33bVbK3caKjM&vet=12ahUKEwjQsuXo78-VAxXpRmwGHToTLJ4QnPAOegQILxAA..i&w=1536&h=414&hcb=2&ved=2ahUKEwjQsuXo78-VAxXpRmwGHToTLJ4QnPAOegQILxAA?user=Aditi-Nair99&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
