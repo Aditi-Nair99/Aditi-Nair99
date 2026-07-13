@@ -111,8 +111,6 @@ An exploratory analysis of the Netflix dataset uncovering insights on content di
 <img src="https://raw.githubusercontent.com/Aditi-Nair99/Aditi-Nair99/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
-> ℹ️ The snake animation above needs a **one-time setup** (a free GitHub Action) — full steps below.
-
 ---
 
 ### 🤝 Let's Connect
