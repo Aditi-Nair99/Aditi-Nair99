@@ -91,26 +91,17 @@ An exploratory analysis of the Netflix dataset uncovering insights on content di
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Nair99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-<img src="https://www.google.com/imgres?q=github%20streak%20image&imgurl=https%3A%2F%2Fjacobtomlinson.dev%2Fposts%2F2024%2Fgithub-streaks-and-work%2Flife-balance%2F2023-cassidy-commit-graph.png&imgrefurl=https%3A%2F%2Fjacobtomlinson.dev%2Fposts%2F2024%2Fgithub-streaks-and-work%2Flife-balance%2F&docid=bMfOVYuKblBGSM&tbnid=9-33bVbK3caKjM&vet=12ahUKEwjQsuXo78-VAxXpRmwGHToTLJ4QnPAOegQILxAA..i&w=1536&h=414&hcb=2&ved=2ahUKEwjQsuXo78-VAxXpRmwGHToTLJ4QnPAOegQILxAA?user=Aditi-Nair99&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Nair99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Nair99&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Nair99&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Nair99&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditi-Nair99&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditi-Nair99&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aditi-Nair99/Aditi-Nair99/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
 ---
 
 ### 🤝 Let's Connect
